@@ -195,7 +195,7 @@ export default function Home() {
           </Stack>
         </form>
 
-        <Footer year={2023} fullName="Chayanin Suatap" studentId="650610560" />
+        <Footer year={2023} fullName="Waenkaew Phimsena" studentId="650610809" />
       </Container>
 
       <TermsAndCondsModal opened={opened} close={close} />
